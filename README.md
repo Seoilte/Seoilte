@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Seoilte/Seoilte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email: oliviawalsh7171@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: part of my heart is made of nitinol, which is being tested for use in the Mars rovers :)
--->
+
